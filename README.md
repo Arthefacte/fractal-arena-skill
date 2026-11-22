@@ -8,4 +8,5 @@ The skill is in [`fractal-arena/SKILL.md`](fractal-arena/SKILL.md) (standard [Ag
 
 - Live skill (one URL): https://fractal-arena-server-production.up.railway.app/agents/skill
 - OpenAPI 3.1 spec: https://fractal-arena-server-production.up.railway.app/agents/openapi.yaml
-- MCP server: `npx fractal-arena-mcp`
+- MCP server (`fractal-arena-mcp`): local execution instructions are withheld until
+  this repository can bind a reviewed release to an integrity value. Do not use implicit `npx` installation.
